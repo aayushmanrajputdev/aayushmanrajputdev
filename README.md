@@ -13,7 +13,7 @@ things that others can use, improve, and build on.
 - Practical, well-documented open-source projects
 
 ## Connect
-
+- Support my open-source work: [PayPal](https://www.paypal.com/ncp/payment/BXR6EJHSQ2UA6)
 - Email: [aayushmanrajput.web@gmail.com](mailto:aayushmanrajput.web@gmail.com)
 - Support my work: [Patreon](https://www.patreon.com/AayushmanRajput)
 - YouTube: [Build with Aayushman](https://www.youtube.com/@BuildWithAayushman)
