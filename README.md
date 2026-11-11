@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Aayushman 👋
 
-<!--
-**aayushmanrajputdev/aayushmanrajputdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm exploring how code and AI can help turn ideas into useful software.
 
-Here are some ideas to get you started:
+On this profile, I plan to share open-source AI skills, development tools,
+and projects for websites and apps. I enjoy learning in public and making
+things that others can use, improve, and build on.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm interested in
+
+- AI skills and tools for developers and creators
+- Web and mobile app development
+- Practical, well-documented open-source projects
+
+## Connect
+
+- Email: [aayushmanrajput.web@gmail.com](mailto:aayushmanrajput.web@gmail.com)
+- Support my work: [Patreon](https://www.patreon.com/AayushmanRajput)
