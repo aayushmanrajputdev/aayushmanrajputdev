@@ -16,3 +16,6 @@ things that others can use, improve, and build on.
 
 - Email: [aayushmanrajput.web@gmail.com](mailto:aayushmanrajput.web@gmail.com)
 - Support my work: [Patreon](https://www.patreon.com/AayushmanRajput)
+- YouTube: [Build with Aayushman](https://www.youtube.com/@BuildWithAayushman)
+- LinkedIn: [Connect with me](www.linkedin.com/in/aayushmanrajputdev)
+- 
